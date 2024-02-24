@@ -1,5 +1,7 @@
 #  🚀 Cybersecurity for Beginners – a curriculum
 
+> View these instructions in [Spanish](/translations/es/README.md)
+
 This course is designed to teach you fundamental cyber security concepts to kick-start your security learning. It is vendor agnostic and is divided into small lessons that should take around 30-60 mins to complete. Each lesson has a small quiz and links to further reading if you want to dive into the topic a bit more.
 
 ![Cybersecurity for Beginners](images/banner.jpg)
@@ -55,6 +57,10 @@ If you have any feedback or suggestions on this course and any content we're mis
 | **7.1**           | Data security fundamentals                | [Data security key concepts](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | Learn about data classification and retention and why this is important to an organization.                     |
 | **7.2**           | Data security fundamentals                | [Data security capabilities](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Learn about data security tooling – DLP, inside risk management, data governance, etc.                          |
 | **7.3**           | [End of module quiz](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
+
+## 🌐 Help Wanted!
+
+Would you like to contribute a translation? Please read our [translation guidelines](https://github.com/microsoft/Security-101).
 
 ## 🎒  Other Courses 
 
